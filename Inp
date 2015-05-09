@@ -1,0 +1,10 @@
+< a a a d >
+[ Age education gender hobby ]
+under-21 elementary male fishing
+? secondary female fishing
+21-40 * ? fishing
+41-and-over higher male hunting
+21-40 ? female hunting
+? * female jogging
+21-40 secondary female jogging
+under-21 elementary * jogging
